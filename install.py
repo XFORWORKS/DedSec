@@ -4,7 +4,9 @@ import os
 def install():
 
         os.system("sudo apt update")
+	os.system("sudo apt install python-pip")
         os.system("sudo apt install pip")
+	os.system("sudo python -m pip install requests")
 	os.system("pip install mechanize json whois python-whois requests bs4 requests[socks] urlparse cookielib") 
 	os.system("pip install scapy datetime argparse re threading urllib2 modules builtwith smtplib")
 	os.system("pip install whois")
