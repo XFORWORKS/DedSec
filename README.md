@@ -3,15 +3,15 @@ DedSec is a Tool that has been created by the hacker group XForWorks. Every scri
 
 ![293jp2h6odg41](https://user-images.githubusercontent.com/67760271/112278555-a2868600-8c8b-11eb-9633-a920530a31bd.png)
 
-## INSTALATION
+## INSTALLATION
 
-apt install python
+###### apt install python
 
-python install.py
+###### python install.py
 
 ## HOW TO RUN
 
-bash dedsec.sh
+###### bash dedsec.sh
 
 this will run the animation (animation.py) and the script (script.py)
 
@@ -19,6 +19,6 @@ you need to know that when the animation starts hold CTRL+C to start the script
 
 ## CREATOR
 
-The creator is the leader of the hacker group XforWorks
+#### The creator is the leader of the hacker group XforWorks
 
-His name is Retr0
+#### His name is Retr0
