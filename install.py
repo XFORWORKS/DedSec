@@ -28,6 +28,8 @@ def install():
 	os.system("cd /mnt/c && git clone https://github.com/tartley/colorama")
 	os.system("python /mnt/c/colorama/setup.py install")
 	os.system("cd /mnt/c && git clone https://github.com/Tuhinshubhra/RED_HAWK")
+	os.system("cd /mnt/c && git clone https://github.com/derv82/wifite2")
+	os.system("python /mnc/c/wifite2/setup.py install
 	os.system("cd /mnt/c && git clone https://github.com/XFORWORKS/TrackingScripts")
 	os.system("cd /mnt/c && git clone https://github.com/Mebus/cupp")
         os.system("cd /mnt/c && git clone https://github.com/arismelachroinos/lscript")
@@ -72,6 +74,8 @@ if check == "n" :
 			os.system("cd /mnt/c")
                         os.system("cd /mnt/c && git clone https://github.com/thelinuxchoice/shellphish")
                         os.system("cd /mnt/c && git clone https://github.com/Tuhinshubhra/RED_HAWK")
+		        os.system("cd /mnt/c && git clone https://github.com/derv82/wifite2")
+	                os.system("python /mnc/c/wifite2/setup.py install
                         os.system("cd /mnt/c && git clone https://github.com/XFORWORKS/TrackingScripts")
                         os.system("cd /mnt/c && git clone https://github.com/Mebus/cupp")
                         os.system("cd /mnt/c && git clone https://github.com/arismelachroinos/lscript")
