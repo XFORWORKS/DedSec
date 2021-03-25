@@ -113,6 +113,7 @@ def help():
 ║               pinfo :  get info from phone number             ║
 ║               ipgrab :  web to ip                             ║
 ║               port :  port scan                               ║
+║               wifite2 :  hack wifi network                    ║ 
 ║               ping :	pinging shit                            ║
 ║               lscipt :  the lazy script                       ║
 ║               msf  :	metasploit                              ║
@@ -856,6 +857,8 @@ def menu():
                         os.system("bash phone.sh")
 		if menu == "shellphish" :
 			os.system("bash /mnt/c/shellphish/shellphish.sh")
+	        if menu == "wifite2" :
+			os.system("sudo python /mnt/c/wifite2/Wifite.py")
 		if menu == "trackip" :
 			os.system("bash /mnt/c/TrackingScripts/trackip")
 		if menu == "cupp" :
