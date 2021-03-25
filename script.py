@@ -110,18 +110,19 @@ def help():
 ║               udp  :  UDP flood                               ║
 ║               tcp  :  TCP flood                               ║
 ║               syn  :  SYN flood                               ║
-║              ipgrab:	web to ip                               ║
+║               pinfo :  get info from phone number             ║
+║               ipgrab :  web to ip                             ║
 ║               port :  port scan                               ║
 ║               ping :	pinging shit                            ║
-║               lscipt:  the lazy script                        ║
+║               lscipt :  the lazy script                       ║
 ║               msf  :	metasploit                              ║
 ║               sys  :	sytem info                              ║
 ║               info :  info gather                             ║
 ║               set  :  setoolkit                               ║
-║               redhawk:  stealing website info                 ║
-║               hydra:  use hydra                               ║
-║               shellphish:  shellphish hack                    ║
-║               trackip:  tracing ip address                    ║
+║               redhawk :  stealing website info                ║
+║               hydra :  use hydra                              ║
+║               shellphish :  shellphish hack                   ║
+║               trackip :  tracing ip address                   ║
 ║               cupp :  wordlist maker                          ║
 ║                                                               ║
 ║                                                               ║
@@ -851,6 +852,8 @@ def menu():
 			os.system("php /mnt/c/RED_HAWK/rhawk.php")
 		if menu == "hydra" :
 			hydra()
+                if menu == "pinfo" :
+                        os.system("bash phone.sh")
 		if menu == "shellphish" :
 			os.system("bash /mnt/c/shellphish/shellphish.sh")
 		if menu == "trackip" :
