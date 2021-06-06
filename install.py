@@ -46,14 +46,17 @@ def install():
 print "are you running on the real kali linux os   [y/n]"
 check = raw_input("[y/n]> ")
 if check == "y" :
-	print "ok most tools should work for you you might have to install other"
-	print "things on your os for this to work if it doesnt work"
+	print "Ok most tools should work for you"
+	print "(WARNING) Dont delete anything with the name ShellPhsih , Colorama , RED_HAWK , wifite2 , TrackingScripts , cupp , lscript or social-engineer-toolkit"
+	print "Because if u do so the script wont work..."
 	os.system("sleep 2")
 	install()
 
 if check == "n" :
-	print "then some of the tools in this script might not work"
-	print "do you want to continue installation  [y/n]"
+	print "Then some of the tools in this script might not work"
+	print "(WARNING) Dont delete anything with the name ShellPhsih , Colorama , RED_HAWK , wifite2 , TrackingScripts , cupp , lscript or social-engineer-toolkit"
+	print "Because if u do so the script wont work..."
+	print "Do you want to continue installation  [y/n]"
 	install = raw_input("[y/n]> ")
 	if install == "y" :
                 def install():
@@ -80,12 +83,17 @@ if check == "n" :
                         os.system("cd /mnt/c && git clone https://github.com/Mebus/cupp")
                         os.system("cd /mnt/c && git clone https://github.com/arismelachroinos/lscript")
                         print "\n"
-			print "entering big download region prepare you anus if your not ready press ctrl C"
+			print "Entering big download, if your not ready press CTRL C"
 			i = raw_input("press ctrl c to stop hit enter to continue")
 			os.system("sudo apt install metasploit-framework -y")
 			os.system("cd /mnt/c && git clone https://github.com/trustedsec/social-engineer-toolkit")
 			os.system("sudo apt install wifite -y")
 			os.system("sudo apt install reaver -y")
 			os.system("sudo apt install aircrack-ng -y")
+			print "You ready for one more big download? If not press CTRL C"
+			i = raw_input("Press CTRL C to stop, hit ENTER to continue")
 			os.system("cd /mnt/c/social-engineer-toolkit && pip install -r requirements.txt")
 			os.system("python /mnt/c/social-engineer-toolkit/setup.py install")
+                        
+print "Ok you are good to go, to start the script type (bash dedsec.sh)"
+
