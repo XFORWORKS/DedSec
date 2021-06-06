@@ -807,6 +807,16 @@ def menu():
 			sys.exit()
 		if menu == "?" :
 			help()
+		if menu == "help" :
+			help()
+		if menu == "h" :
+			help()
+		if menu == "-h" :
+			help()
+		if menu == "-help" :
+			help()
+		if menu == "--help" :
+			help()
 		if menu == "udp" :
 			floodbanner()
 			target = raw_input(G+"Target: ")
