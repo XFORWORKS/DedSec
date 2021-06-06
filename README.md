@@ -6,13 +6,13 @@
 
 ## INSTALLATION
 
-###### apt install python
+###### * apt install python
 
-###### python install.py
+###### * python install.py
 
 ## HOW TO RUN
 
-###### bash dedsec.sh
+###### * bash dedsec.sh
 
 #### this will run the animation (animation.py) and the script (script.py)
 
