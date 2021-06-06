@@ -21,3 +21,7 @@
 ## CREATOR
 
 #### The creator is the leader of the hacker group XforWorks
+
+## RELEASE
+
+https://github.com/XFORWORKS/DedSec/releases
