@@ -1,6 +1,6 @@
 # DedSec
 
-## [RELEASES](https://github.com/XFORWORKS/DedSec/releases)
+### [Latest Realese](https://github.com/XFORWORKS/DedSec/releases)
 
 #### DedSec is a Tool that has been created by the hacker group XForWorks. Every script you need is in one tool.
 
@@ -26,4 +26,4 @@
 
 ## DONATE
 
-# [PayPal](https://www.paypal.com/paypalme/xforworks)
+### [PayPal](https://www.paypal.com/paypalme/xforworks)
