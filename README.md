@@ -25,3 +25,7 @@
 ## RELEASE
 
 (https://github.com/XFORWORKS/DedSec/releases)
+
+## DONATE
+
+[PayPal](https://www.paypal.com/paypalme/xforworks)
