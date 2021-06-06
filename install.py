@@ -43,7 +43,7 @@ def install():
 
                                                                                                          
 
-print "are you running on the real kali linux os   [y/n]"
+print "Are you running on the real Kali Linux OS? [y/n]"
 check = raw_input("[y/n]> ")
 if check == "y" :
 	print "Ok most tools should work for you"
