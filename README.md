@@ -16,9 +16,9 @@
 
 ###### * bash dedsec.sh
 
-#### this will run the animation (animation.py) and the script (script.py)
+#### This will run the animation (animation.py) and the script (script.py)
 
-#### you need to know that when the animation starts hold CTRL+C to start the script
+#### You need to know that when the animation starts hold CTRL+C to start the script
 
 ## CREATOR
 
