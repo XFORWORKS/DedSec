@@ -24,4 +24,4 @@
 
 ## RELEASE
 
-https://github.com/XFORWORKS/DedSec/releases
+(https://github.com/XFORWORKS/DedSec/releases)
