@@ -21,5 +21,3 @@
 ## CREATOR
 
 #### The creator is the leader of the hacker group XforWorks
-
-#### His name is Retr0
