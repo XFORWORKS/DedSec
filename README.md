@@ -2,7 +2,7 @@
 
 #### DedSec is a Tool that has been created by the hacker group XForWorks.
 #### Every script you need is in one tool.
-#### The new version of [DedSec](https://github.com/unkn0wnh4ckr/dedsec) by @unkn0wnh4ckr
+#### The new version of [DedSec](https://github.com/unkn0wnh4ckr/dedsec) by [@unkn0wnh4ckr](https://github.com/unkn0wnh4ckr)
 
 ![293jp2h6odg41](https://user-images.githubusercontent.com/67760271/112278555-a2868600-8c8b-11eb-9633-a920530a31bd.png)
 
